@@ -214,8 +214,12 @@ hr {
 
 /* Body font
 ============= */
+@font-face {
+	font-family: myFirstFont;
+	src: url(BRATLBS0.ttf);
+  }
 body {
-	font-family: 'Poppins', sans-serif;
+	font-family: myFirstFont;
 }
 
 
@@ -264,7 +268,7 @@ body {
 .tt-scrolling-btn,
 #blog-list.bli-compact .bli-info::before,
 .footer-social-text {
-	font-family: 'Syne', sans-serif;
+	font-family: myFirstFont;
 }
 
 
