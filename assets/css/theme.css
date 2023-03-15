@@ -316,7 +316,7 @@ body.tt-transition .ptr-prel-content {
 }
 
 .ptr-prel-image {
-	max-height: 82px; /* You may need to change the img height to match your logo type! */
+	max-height: 282px; /* You may need to change the img height to match your logo type! */
 	opacity: .5; /* You may need to change the opacity as well! */
 }
 
